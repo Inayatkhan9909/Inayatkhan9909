@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inayatkhan9909&show_icons=true&locale=en" alt="inayatkhan9909" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inayatkhan9909&" alt="inayatkhan9909" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inayatkhan9909&" alt="inayat khan" /></p>
