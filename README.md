@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inayatkhan9909" alt="inayatkhan9909" /></a> </p>
 
-- 🔭 I’m currently working on [Holiday Cab service](https://github.com/Inayatkhan9909/Holiday-Cab-Service)
+- 🔭 I’m currently working on [Improvise](https://github.com/Inayatkhan9909/Improvise-Frontend)
 
 - 🌱 I’m currently learning **React Native**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inayatkhan9909&show_icons=true&locale=en" alt="inayatkhan9909" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inayatkhan9909&" alt="inayat khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inayatkhan9909" alt="inayat khan" /></p>
